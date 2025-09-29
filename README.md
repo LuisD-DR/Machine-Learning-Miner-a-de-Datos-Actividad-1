@@ -1,5 +1,6 @@
 # Machine-Learning-Miner-a-de-Datos-Actividad-1
 Actividad 1 de Machine Learning Corte 2 | Minería de Datos
+
 Descripción General
 Este dataset sintético contiene información de 500 estudiantes universitarios y su probabilidad de deserción académica.
 Se construyó con fines educativos para simulación de datos, análisis exploratorio y pruebas de modelos de Machine Learning.
