@@ -1,4 +1,4 @@
-# Machine-Learning-Miner-a-de-Datos-Actividad-1
+# Machine-Learning-Miner-a-de-Datos-Actividad-1 Luis Douglas
 Actividad 1 de Machine Learning Corte 2 | Minería de Datos
 
 Descripción General
